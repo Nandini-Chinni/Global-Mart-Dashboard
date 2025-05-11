@@ -48,9 +48,9 @@ This dashboard helps answer important business questions like:
 ---
 
 
-## 📈 Screenshots
+## 📈 Screenshot
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Nandini-Chinni/Global-Mart-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
